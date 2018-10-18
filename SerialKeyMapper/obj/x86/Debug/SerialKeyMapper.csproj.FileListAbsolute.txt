@@ -1,0 +1,7 @@
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\obj\x86\Debug\Playful.Technology.SerialKeyMapper.resources
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\obj\x86\Debug\SerialKeyMapper.csproj.GenerateResource.Cache
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\bin\Debug\SerialKeyMapper.exe
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\bin\Debug\SerialKeyMapper.pdb
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\obj\x86\Debug\Playful.Technology.Properties.Resources.resources
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\obj\x86\Debug\SerialKeyMapper.exe
+C:\Users\alast\Documents\Visual Studio 2017\Projects\SerialKeyMapper\SerialKeyMapper\obj\x86\Debug\SerialKeyMapper.pdb

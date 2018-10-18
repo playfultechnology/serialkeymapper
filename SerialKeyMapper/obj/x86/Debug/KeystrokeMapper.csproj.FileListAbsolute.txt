@@ -1,0 +1,7 @@
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.exe
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.pdb
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Playful.Technology.KeystrokeMapper.resources
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.Properties.Resources.resources
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\KeystrokeMapper.csproj.GenerateResource.Cache
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.exe
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.pdb

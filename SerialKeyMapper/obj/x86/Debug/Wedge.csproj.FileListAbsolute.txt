@@ -1,0 +1,32 @@
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\bin\Debug\Wedge.exe
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\bin\Debug\Wedge.pdb
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedgies.frmWedge.resources
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.Properties.Resources.resources
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.exe
+C:\Users\Administrator\Downloads\SerialWedge-master\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.pdb
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.exe
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.pdb
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.exe
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.pdb
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csprojResolveAssemblyReference.cache
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedgies.frmWedge.resources
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.Properties.Resources.resources
+E:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csproj.GenerateResource.Cache
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.exe
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.pdb
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.exe
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.pdb
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csprojResolveAssemblyReference.cache
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedgies.frmWedge.resources
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.Properties.Resources.resources
+G:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csproj.GenerateResource.Cache
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.exe
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\bin\Debug\Wedge.pdb
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csprojResolveAssemblyReference.cache
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.Properties.Resources.resources
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.csproj.GenerateResource.Cache
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.exe
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Wedge.pdb
+H:\Unlock\TV Channel Changer\SerialWedge-master\Wedge\obj\x86\Debug\Playful.Technology.KeystrokeMapper.resources
